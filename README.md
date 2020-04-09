@@ -1,7 +1,7 @@
 About
 =====
 
-A collection of algorithms to solve problems from numerical theory.
+A collection of algorithms to solve problems from number theory.
 
 * `fact.c`       factorize a number 
 * `fexp.c`       fast exponentiation
