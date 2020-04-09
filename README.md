@@ -25,7 +25,7 @@ Show usage and program description (including runtime complexity)
 program -h
 ```
 
-Print output human readable (i.e. add more information/test around the results). Good if the output is not processed any further.
+Print output human readable (i.e. add more information/text around the results). Good if the output is not processed any further.
 
 ```
 program -H
